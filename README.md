@@ -14,9 +14,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: -
+Site published at: https://kasparasd.github.io/ufo/
 
-Design: [UFO](./img/404.jpg)
+Design: [UFO](https://dribbble.com/shots/2815937-404-page)
 
 ## 🎯 Project features/goals
 
